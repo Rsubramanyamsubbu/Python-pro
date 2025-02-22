@@ -1,4 +1,4 @@
-# Python-pro
+# job-portal-flask
 Job Portal
 
 from flask import Flask, request, jsonify
